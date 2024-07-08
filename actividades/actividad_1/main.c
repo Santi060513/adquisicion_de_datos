@@ -46,9 +46,3 @@ int main() {
     }
     return 0;
 }
-        lcd_string(str);
-        // Espero 500 ms
-        sleep_ms(500);
-    }
-    return 0;
-}
